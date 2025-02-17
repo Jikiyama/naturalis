@@ -1,12 +1,20 @@
-import React from 'react';
-import MealPrepApp from './MealPrepApp';
+import React from "react";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import MealPrepForm from "./MealPrepForm";
+import MealPlanDisplay from "./MealPlanDisplay";
 
-const App = () => {
+function App() {
   return (
-    <div className="App">
-      <MealPrepApp />
-    </div>
+    <BrowserRouter>
+      <Routes>
+        {/* Home route shows the meal prep form */}
+        <Route path="/" element={<MealPrepForm />} />
+
+        {/* The meal plan display route, used after the form is submitted */}
+        <Route path="/mealplan" element={<MealPlanDisplay />} />
+      </Routes>
+    </BrowserRouter>
   );
-};
+}
 
 export default App;
