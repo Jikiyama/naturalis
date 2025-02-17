@@ -1,0 +1,301 @@
+{
+  "meal_plan": {
+    "Monday": {
+      "Breakfast": "Bean & Avocado Wrap – A whole wheat tortilla filled with seasoned black beans, diced avocado, fresh spinach, shredded cheese, and a spoonful of salsa.",
+      "Snack": "Greek Yogurt with Mixed Berries and a small serving of crunchy granola.",
+      "Lunch": "Chicken Fajita Bowl – Grilled chicken breast with sautéed bell peppers and onions over a bed of brown rice, black beans, sliced avocado, and a fresh tomato salsa.",
+      "Dinner": "Turkey Taco Salad – Lean ground turkey seasoned with Mexican spices served over a bed of romaine lettuce, tomatoes, corn, black beans, and avocado with a light lime dressing."
+    },
+    "Tuesday": {
+      "Breakfast": "Mexican-Style Tofu Scramble Wrap – Crumbled firm tofu sautéed with bell peppers, onions, tomatoes, spinach, and spices wrapped in a corn tortilla.",
+      "Snack": "Fresh Mango slices sprinkled with a pinch of chili powder and lime juice.",
+      "Lunch": "Grilled Chicken & Avocado Salad with Black Bean Salsa – Mixed greens topped with grilled chicken, avocado, black beans, diced tomatoes, and a citrus vinaigrette.",
+      "Dinner": "Lean Beef & Vegetable Stir-Fry – Strips of lean beef stir-fried with bell peppers, zucchini, onions, and a touch of Mexican spices served with brown rice."
+    },
+    "Wednesday": {
+      "Breakfast": "Tofu Veggie Burrito – A whole wheat tortilla stuffed with a spicy tofu scramble, black beans, diced bell peppers, onions, and a sprinkle of cheese.",
+      "Snack": "Cottage Cheese with Pineapple chunks.",
+      "Lunch": "Chicken Fajita Bowl – Fresh grilled chicken breast with sautéed bell peppers, onions, brown rice, black beans, avocado, and tomato salsa.",
+      "Dinner": "Turkey Stuffed Bell Peppers – Bell peppers filled with a mix of lean ground turkey, brown rice, black beans, corn, and salsa then baked until tender (make extra for leftovers)."
+    },
+    "Thursday": {
+      "Breakfast": "Mexican Quinoa Porridge – Warm quinoa cooked in almond milk with cinnamon, raisins, and chopped apples, drizzled with a little honey.",
+      "Snack": "Homemade Guacamole with assorted vegetable sticks (carrot, cucumber, and bell pepper).",
+      "Lunch": "Grilled Chicken & Avocado Salad – Mixed greens with slices of grilled chicken, avocado, tomatoes, black beans, and a cilantro-lime dressing.",
+      "Dinner": "Beef Taco Lettuce Wraps – Seasoned lean ground beef, diced tomatoes, corn salsa, and avocado scooped into crisp lettuce leaves."
+    },
+    "Friday": {
+      "Breakfast": "Black Bean & Sweet Potato Hash – Diced sweet potatoes and black beans sautéed with onions, bell peppers, and Mexican spices.",
+      "Snack": "Mango and Lime Fruit Salad – Fresh mango cubes tossed with lime juice and a sprinkle of chili powder.",
+      "Lunch": "Veggie Fajita Bowl – Sautéed bell peppers, onions, zucchini, and black beans served over brown rice with avocado and salsa.",
+      "Dinner": "Quinoa & Black Bean Stuffed Bell Peppers – Bell peppers baked with a hearty mix of quinoa, black beans, corn, tomatoes, and a light sprinkle of cheese (meatless for Friday due to religious preference)."
+    }
+  },
+  "nutritional_info": {
+    "Monday": {
+      "Breakfast": {
+        "Calories": 500,
+        "Protein": 20,
+        "Carbs": 60,
+        "Fat": 16,
+        "Sodium": 450,
+        "Fiber": 10
+      },
+      "Snack": {
+        "Calories": 300,
+        "Protein": 15,
+        "Carbs": 40,
+        "Fat": 8,
+        "Sodium": 100,
+        "Fiber": 4
+      },
+      "Lunch": {
+        "Calories": 600,
+        "Protein": 45,
+        "Carbs": 65,
+        "Fat": 18,
+        "Sodium": 600,
+        "Fiber": 8
+      },
+      "Dinner": {
+        "Calories": 700,
+        "Protein": 50,
+        "Carbs": 50,
+        "Fat": 30,
+        "Sodium": 700,
+        "Fiber": 10
+      },
+      "Daily Total": {
+        "Calories": 2100,
+        "Protein": 130,
+        "Carbs": 215,
+        "Fat": 72,
+        "Sodium": 1850,
+        "Fiber": 32
+      }
+    },
+    "Tuesday": {
+      "Breakfast": {
+        "Calories": 500,
+        "Protein": 22,
+        "Carbs": 55,
+        "Fat": 18,
+        "Sodium": 480,
+        "Fiber": 9
+      },
+      "Snack": {
+        "Calories": 300,
+        "Protein": 15,
+        "Carbs": 40,
+        "Fat": 8,
+        "Sodium": 110,
+        "Fiber": 4
+      },
+      "Lunch": {
+        "Calories": 600,
+        "Protein": 45,
+        "Carbs": 65,
+        "Fat": 18,
+        "Sodium": 600,
+        "Fiber": 8
+      },
+      "Dinner": {
+        "Calories": 700,
+        "Protein": 50,
+        "Carbs": 50,
+        "Fat": 30,
+        "Sodium": 700,
+        "Fiber": 10
+      },
+      "Daily Total": {
+        "Calories": 2100,
+        "Protein": 132,
+        "Carbs": 210,
+        "Fat": 74,
+        "Sodium": 1890,
+        "Fiber": 31
+      }
+    },
+    "Wednesday": {
+      "Breakfast": {
+        "Calories": 500,
+        "Protein": 20,
+        "Carbs": 60,
+        "Fat": 16,
+        "Sodium": 450,
+        "Fiber": 10
+      },
+      "Snack": {
+        "Calories": 300,
+        "Protein": 15,
+        "Carbs": 40,
+        "Fat": 8,
+        "Sodium": 100,
+        "Fiber": 4
+      },
+      "Lunch": {
+        "Calories": 600,
+        "Protein": 45,
+        "Carbs": 65,
+        "Fat": 18,
+        "Sodium": 600,
+        "Fiber": 8
+      },
+      "Dinner": {
+        "Calories": 700,
+        "Protein": 50,
+        "Carbs": 50,
+        "Fat": 30,
+        "Sodium": 700,
+        "Fiber": 10
+      },
+      "Daily Total": {
+        "Calories": 2100,
+        "Protein": 130,
+        "Carbs": 215,
+        "Fat": 72,
+        "Sodium": 1850,
+        "Fiber": 32
+      }
+    },
+    "Thursday": {
+      "Breakfast": {
+        "Calories": 500,
+        "Protein": 20,
+        "Carbs": 60,
+        "Fat": 16,
+        "Sodium": 450,
+        "Fiber": 10
+      },
+      "Snack": {
+        "Calories": 300,
+        "Protein": 15,
+        "Carbs": 40,
+        "Fat": 8,
+        "Sodium": 100,
+        "Fiber": 4
+      },
+      "Lunch": {
+        "Calories": 600,
+        "Protein": 45,
+        "Carbs": 65,
+        "Fat": 18,
+        "Sodium": 600,
+        "Fiber": 8
+      },
+      "Dinner": {
+        "Calories": 700,
+        "Protein": 50,
+        "Carbs": 50,
+        "Fat": 30,
+        "Sodium": 700,
+        "Fiber": 10
+      },
+      "Daily Total": {
+        "Calories": 2100,
+        "Protein": 130,
+        "Carbs": 215,
+        "Fat": 72,
+        "Sodium": 1850,
+        "Fiber": 32
+      }
+    },
+    "Friday": {
+      "Breakfast": {
+        "Calories": 500,
+        "Protein": 18,
+        "Carbs": 58,
+        "Fat": 16,
+        "Sodium": 440,
+        "Fiber": 10
+      },
+      "Snack": {
+        "Calories": 300,
+        "Protein": 15,
+        "Carbs": 40,
+        "Fat": 8,
+        "Sodium": 100,
+        "Fiber": 4
+      },
+      "Lunch": {
+        "Calories": 600,
+        "Protein": 40,
+        "Carbs": 65,
+        "Fat": 18,
+        "Sodium": 600,
+        "Fiber": 8
+      },
+      "Dinner": {
+        "Calories": 700,
+        "Protein": 45,
+        "Carbs": 50,
+        "Fat": 30,
+        "Sodium": 680,
+        "Fiber": 10
+      },
+      "Daily Total": {
+        "Calories": 2100,
+        "Protein": 118,
+        "Carbs": 213,
+        "Fat": 72,
+        "Sodium": 1820,
+        "Fiber": 32
+      }
+    }
+  },
+  "shopping_list": [
+    { "ingredient": "Chicken Breasts", "quantity": "2.5 lbs" },
+    { "ingredient": "Lean Ground Turkey", "quantity": "1.5 lbs" },
+    { "ingredient": "Lean Ground Beef", "quantity": "1.5 lbs" },
+    { "ingredient": "Firm Tofu", "quantity": "2 blocks" },
+    { "ingredient": "Black Beans (canned or dry)", "quantity": "6 cans or equivalent dried" },
+    { "ingredient": "Quinoa", "quantity": "1 lb" },
+    { "ingredient": "Brown Rice", "quantity": "2 lbs" },
+    { "ingredient": "Whole Wheat Tortillas", "quantity": "1 package" },
+    { "ingredient": "Corn Tortillas", "quantity": "1 package" },
+    { "ingredient": "Bell Peppers (mixed colors)", "quantity": "10 pieces" },
+    { "ingredient": "Red Onions", "quantity": "4 pieces" },
+    { "ingredient": "Yellow Onions", "quantity": "2 pieces" },
+    { "ingredient": "Garlic", "quantity": "2 bulbs" },
+    { "ingredient": "Tomatoes", "quantity": "8 pieces" },
+    { "ingredient": "Avocados", "quantity": "8 pieces" },
+    { "ingredient": "Spinach", "quantity": "1 large bag" },
+    { "ingredient": "Romaine Lettuce", "quantity": "2 heads" },
+    { "ingredient": "Sweet Potatoes", "quantity": "3 pieces" },
+    { "ingredient": "Mangoes", "quantity": "3 pieces" },
+    { "ingredient": "Pineapple", "quantity": "1 medium" },
+    { "ingredient": "Mixed Berries", "quantity": "1 lb" },
+    { "ingredient": "Greek Yogurt", "quantity": "32 oz" },
+    { "ingredient": "Cottage Cheese", "quantity": "16 oz" },
+    { "ingredient": "Granola", "quantity": "1 box" },
+    { "ingredient": "Almond Milk", "quantity": "1 quart" },
+    { "ingredient": "Limes", "quantity": "6 pieces" },
+    { "ingredient": "Apples", "quantity": "3 pieces" },
+    { "ingredient": "Cilantro", "quantity": "1 bunch" },
+    { "ingredient": "Corn (frozen or canned)", "quantity": "2 cups" },
+    { "ingredient": "Assorted Fresh Vegetables (carrots, cucumbers)", "quantity": "Assorted amounts for sticks" },
+    { "ingredient": "Cheddar or Mexican Blend Cheese", "quantity": "8 oz" },
+    { "ingredient": "Raisins", "quantity": "1 small box" },
+    { "ingredient": "Spices (chili powder, cumin, cinnamon, salt, pepper)", "quantity": "As needed" },
+    { "ingredient": "Olive Oil", "quantity": "1 bottle" },
+    { "ingredient": "Honey", "quantity": "Small jar" }
+  ],
+  "recipes": {
+    "Bean & Avocado Wrap": "Heat black beans seasoned with cumin and chili powder. In a whole wheat tortilla, layer the beans with diced avocado, fresh spinach, a sprinkle of shredded cheese, and top with salsa. Fold the wrap and serve warm.",
+    "Greek Yogurt with Mixed Berries and Granola": "Combine Greek yogurt with a mix of fresh berries. Top with a serving of granola for crunch. Add a drizzle of honey if desired.",
+    "Chicken Fajita Bowl": "Season chicken breasts with fajita seasoning and grill until cooked. Sauté sliced bell peppers and onions in a bit of olive oil. Layer a bowl with brown rice, black beans, grilled chicken slices, sautéed vegetables, sliced avocado, and finish with a spoonful of fresh tomato salsa.",
+    "Turkey Taco Salad": "Cook lean ground turkey with taco seasoning. In a large bowl, combine chopped romaine lettuce, diced tomatoes, corn, black beans, and avocado. Top with the cooked turkey and drizzle with a dressing made from lime juice, a bit of olive oil, salt, and pepper.",
+    "Mexican-Style Tofu Scramble Wrap": "Crumble firm tofu and sauté with diced onions, bell peppers, tomatoes, and spinach. Season with turmeric, cumin, chili powder, salt, and pepper. Once heated through, spoon the scramble onto a warmed corn tortilla and roll up.",
+    "Grilled Chicken & Avocado Salad with Black Bean Salsa": "Grill seasoned chicken breasts and slice thinly. In a bowl of mixed greens, add diced avocado, tomatoes, and black beans. Top with chicken slices and toss with a dressing made from lime juice, olive oil, and chopped cilantro.",
+    "Lean Beef & Vegetable Stir-Fry": "Sauté lean beef strips in a pan until browned. Remove and set aside. Stir-fry bell peppers, zucchini, and onions in a little olive oil. Return the beef to the pan, add a splash of low-sodium broth and Mexican spices, and serve over brown rice.",
+    "Tofu Veggie Burrito": "Prepare a burrito by filling a whole wheat tortilla with crumbled tofu cooked with diced onions, bell peppers, and black beans. Add a sprinkle of cheese and salsa before rolling tightly.",
+    "Turkey Stuffed Bell Peppers": "Cut the tops off bell peppers and remove seeds. In a skillet, cook lean ground turkey with onions, black beans, corn, brown rice, and salsa. Stuff the peppers with the mixture, top with a light sprinkle of cheese, and bake at 375°F for 25-30 minutes.",
+    "Mexican Quinoa Porridge": "In a saucepan, combine cooked quinoa with almond milk, diced apples, raisins, a pinch of cinnamon, and a drizzle of honey. Heat until warm, stirring frequently. Serve in a bowl and optionally add chopped nuts if desired.",
+    "Guacamole with Vegetable Sticks": "Mash ripe avocados with lime juice, salt, chopped cilantro, and a diced tomato. Serve with fresh cut vegetable sticks such as carrots, cucumbers, and bell peppers.",
+    "Beef Taco Lettuce Wraps": "Cook lean ground beef with taco seasoning. Spoon the beef mixture into washed and separated lettuce leaves along with diced tomatoes, corn salsa, and sliced avocado. Serve immediately.",
+    "Black Bean & Sweet Potato Hash": "Dice sweet potatoes and sauté with onions and bell peppers until tender. Add black beans and season with cumin, chili powder, salt, and pepper. Serve warm as a hearty breakfast hash.",
+    "Mango and Lime Fruit Salad": "Cube fresh mango and toss with lime juice and a light dusting of chili powder for a zesty snack.",
+    "Veggie Fajita Bowl": "Sauté a medley of bell peppers, onions, and zucchini with black beans and fajita spices. Serve over brown rice and top with avocado slices and fresh salsa.",
+    "Quinoa & Black Bean Stuffed Bell Peppers": "Mix cooked quinoa with black beans, corn, diced tomatoes, and a handful of salsa. Stuff the mixture into hollowed bell peppers, top with a sprinkle of cheese, and bake until the peppers are tender."
+  }
+}
